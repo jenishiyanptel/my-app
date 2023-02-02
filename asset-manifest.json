@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/jenishiyanptel/my-app/static/css/main.35042f3a.css",
-    "main.js": "/jenishiyanptel/my-app/static/js/main.2f7c3196.js",
+    "main.js": "/jenishiyanptel/my-app/static/js/main.9386d381.js",
     "static/js/787.28cb0dcd.chunk.js": "/jenishiyanptel/my-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/jenishiyanptel/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jenishiyanptel/my-app/index.html",
     "main.35042f3a.css.map": "/jenishiyanptel/my-app/static/css/main.35042f3a.css.map",
-    "main.2f7c3196.js.map": "/jenishiyanptel/my-app/static/js/main.2f7c3196.js.map",
+    "main.9386d381.js.map": "/jenishiyanptel/my-app/static/js/main.9386d381.js.map",
     "787.28cb0dcd.chunk.js.map": "/jenishiyanptel/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35042f3a.css",
-    "static/js/main.2f7c3196.js"
+    "static/js/main.9386d381.js"
   ]
 }
